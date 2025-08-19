@@ -1,14 +1,14 @@
 # Monday-Coffee-SQL-Project
 ![Banner](https://raw.githubusercontent.com/Prachibansal11/Monday-Coffee-SQL-Project/9b5f1c7ae515e49f087e4d2e4f05558233cf0e94/1.png)
 
-
-## Objective
+---
+# Objective
 
 The goal of this project is to analyze the sales data of **Monday Coffee**, a company that has been selling its products online since January 2023, and recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
 
 ---
 
-## Key Questions
+# Key Questions
 
 - **Coffee Consumers Count**  
   How many people in each city are estimated to consume coffee, given that 25% of the population does?
@@ -42,7 +42,7 @@ The goal of this project is to analyze the sales data of **Monday Coffee**, a co
 
 ---
 
-## Recommendations
+# Recommendations
 
 Based on the analysis, the recommended top three cities for new store openings are:
 
